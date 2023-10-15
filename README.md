@@ -6,9 +6,7 @@
  <h3 align="center">A student passionate in building websites</h3>
 
  <br/>
-
  <div align="center">
-
 <p>🌱 I’m currently learning Javascript,Tailwind,React,Unity</p>
  </div>
   <div align="center">
