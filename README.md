@@ -3,7 +3,7 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=31F7A2&center=true&vCenter=true&random=false&width=500&lines=Hello+There!!;I+am+Edry+Rezal" alt="Typing SVG" /></a>
 
- <h3 align="center">A student passionate in building websites</h3>
+ <h3 align="center">Student in DIgital Design & Development</h3>
  <br/>
  <div align="center">
 <p>🌱 I’m currently learning Javascript,Tailwind,React,Unity</p>
