@@ -27,6 +27,11 @@
    <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=html,css,java,mysql,github,git,bootstrap,xd,vscode">
    <img src="https://skillicons.dev/icons?i=php,figma,mongodb,eclipse,androidstudio,idea,py">
+   <br/>
+   <hr/>
+
+   
+   
   
 <!--
 **masedryer/masedryer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
