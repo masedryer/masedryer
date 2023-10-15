@@ -9,7 +9,7 @@
 
  <div align="center">
 
-🌱 I’m currently learning Javascript,Tailwind,React,Unity
+<p>🌱 I’m currently learning Javascript,Tailwind,React,Unity</p>
  </div>
   <div align="center">
    <a href="mailto:edryrezal@gmail.com">
