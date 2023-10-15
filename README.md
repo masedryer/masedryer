@@ -9,7 +9,7 @@
 
  <div align="center">
 
- - 🌱 I’m currently learning Javascript,Tailwind,React,Unity
+🌱 I’m currently learning Javascript,Tailwind,React,Unity
  </div>
 
    <div align="center">
@@ -17,9 +17,18 @@
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a>
      <a href="https://www.linkedin.com/in/edry-rezal-rafik-1a264023b/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">'
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
      </a>
-   
+   </div>
+
+   <hr/>
+
+   <h2 align="center">Skills</h2>
+   <br/>
+   <div align="center>
+   <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=html,css,java,mysql,github,git,bootstrap,xd,vscode">
+   <img src="https://skillicons.dev/icons?i=php,figma,mongodb,eclipse,androidstudio,idea,py">
   
 <!--
 **masedryer/masedryer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
