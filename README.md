@@ -5,7 +5,7 @@
 
  <h3 align="center">Student in DIgital Design & Development</h3>
  <div align="center">
-<p>🌱 I’m currently learning Javascript,Tailwind,React,Unity</p>
+<p>🌱 I’m currently learning Javascript,Tailwind,React,Unity,Tableau,Power BI </p>
  </div>
   <div align="center">
    <a href="mailto:edryrezal@gmail.com">
