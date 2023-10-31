@@ -6,6 +6,7 @@
  <div align="center">
 <p>🌱 I’m currently learning Javascript,Tailwind,React,Unity,Tableau,Power BI </p>
 <p>✉️ Contact me at <a href="mailto:edryrezal@gmail.com">edryrezal@gmail.com</a></p>
+  <p>💻 My portfolio Website: <a href="https://whimsical-torte-bff5f0.netlify.app/">Portfolio Website</p>
  </div>
   <div align="center">
    <a href="mailto:edryrezal@gmail.com">
