@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monserrrat&weight=700&size=35&duration=3000&pause=1000&color=FFA600&center=true&vCenter=true&random=false&width=439&lines=Hello+There!!;My+name+is+Edry+Rezal" alt="Typing SVG" /></a>
  <h3 align="center">Student in Digital Design & Development</h3>
  <div align="center">
-<p>🌱 I’m currently learning Javascript,Tailwind,React,Unity,Tableau,Power BI </p>
+<p>🌱 I’m currently learning Javascript,Tailwind,React,Unity,Azure AI</p>
 <p>✉️ Contact me at <a href="mailto:edryrezal@gmail.com">edryrezal@gmail.com</a></p>
   <p>💻 My portfolio Website: <a href="https://whimsical-torte-bff5f0.netlify.app/">Portfolio Website</p>
  </div>
